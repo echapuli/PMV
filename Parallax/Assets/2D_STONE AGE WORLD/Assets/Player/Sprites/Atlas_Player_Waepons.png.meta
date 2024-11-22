@@ -1,0 +1,3988 @@
+fileFormatVersion: 2
+guid: 5675db4a4d8e12347911934eb7b196fd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Wood_Club_0000
+  - first:
+      213: 21300002
+    second: STUN_M_Human_0060
+  - first:
+      213: 21300004
+    second: STUN_M_Human_0070
+  - first:
+      213: 21300006
+    second: STUN_M_Human_0040
+  - first:
+      213: 21300008
+    second: STUN_M_Human_0050
+  - first:
+      213: 21300010
+    second: STUN_M_Human_0080
+  - first:
+      213: 21300012
+    second: STUN_M_Human_0100
+  - first:
+      213: 21300014
+    second: STUN_M_Human_0090
+  - first:
+      213: 21300016
+    second: STUN_M_Human_0030
+  - first:
+      213: 21300018
+    second: STUN_M_Human_0020
+  - first:
+      213: 21300020
+    second: STUN_M_Human_0140
+  - first:
+      213: 21300022
+    second: STUN_M_Human_0120
+  - first:
+      213: 21300024
+    second: STUN_M_Human_0130
+  - first:
+      213: 21300026
+    second: STUN_M_Human_0110
+  - first:
+      213: 21300028
+    second: STUN_M_Human_0010
+  - first:
+      213: 21300030
+    second: STUN_M_Human_0150
+  - first:
+      213: 21300032
+    second: STUN_M_Human_0000
+  - first:
+      213: 21300034
+    second: THROW_M_Human_0100
+  - first:
+      213: 21300036
+    second: RUN_M_Human_0040
+  - first:
+      213: 21300038
+    second: RUN_M_Human_0120
+  - first:
+      213: 21300040
+    second: JUMP_M_Human_0120
+  - first:
+      213: 21300042
+    second: THROW_M_Human_0110
+  - first:
+      213: 21300044
+    second: JUMP_M_Human_0110
+  - first:
+      213: 21300046
+    second: THROW_M_Human_0090
+  - first:
+      213: 21300048
+    second: THROW_M_Human_0120
+  - first:
+      213: 21300050
+    second: THROW_M_Human_0130
+  - first:
+      213: 21300052
+    second: HIT_M_Human_0050
+  - first:
+      213: 21300054
+    second: HIT_M_Human_0040
+  - first:
+      213: 21300056
+    second: HIT_M_Human_0070
+  - first:
+      213: 21300058
+    second: HIT_M_Human_0060
+  - first:
+      213: 21300060
+    second: DEATH_M_Human_0060
+  - first:
+      213: 21300062
+    second: ATTACK_M_Human_0040
+  - first:
+      213: 21300064
+    second: DEATH_M_Human_0040
+  - first:
+      213: 21300066
+    second: ATTACK_M_Human_0030
+  - first:
+      213: 21300068
+    second: DEATH_M_Human_0050
+  - first:
+      213: 21300070
+    second: HIT_M_Human_0080
+  - first:
+      213: 21300072
+    second: JUMP_M_Human_0130
+  - first:
+      213: 21300074
+    second: RUN_M_Human_0130
+  - first:
+      213: 21300076
+    second: RUN_M_Human_0030
+  - first:
+      213: 21300078
+    second: RUN_M_Human_0050
+  - first:
+      213: 21300080
+    second: JUMP_M_Human_0100
+  - first:
+      213: 21300082
+    second: HIT_M_Human_0100
+  - first:
+      213: 21300084
+    second: HIT_M_Human_0090
+  - first:
+      213: 21300086
+    second: HIT_M_Human_0120
+  - first:
+      213: 21300088
+    second: HIT_M_Human_0110
+  - first:
+      213: 21300090
+    second: WALK_M_Human_0130
+  - first:
+      213: 21300092
+    second: WALK_M_Human_0050
+  - first:
+      213: 21300094
+    second: HIT_M_Human_0030
+  - first:
+      213: 21300096
+    second: JUMP_M_Human_0140
+  - first:
+      213: 21300098
+    second: WALK_M_Human_0120
+  - first:
+      213: 21300100
+    second: THROW_M_Human_0150
+  - first:
+      213: 21300102
+    second: WALK_M_Human_0140
+  - first:
+      213: 21300104
+    second: WALK_M_Human_0030
+  - first:
+      213: 21300106
+    second: DEATH_M_Human_0030
+  - first:
+      213: 21300108
+    second: WALK_M_Human_0060
+  - first:
+      213: 21300110
+    second: HIT_M_Human_0130
+  - first:
+      213: 21300112
+    second: WALK_M_Human_0040
+  - first:
+      213: 21300114
+    second: WALK_M_Human_0110
+  - first:
+      213: 21300116
+    second: JUMP_M_Human_0020
+  - first:
+      213: 21300118
+    second: THROW_M_Human_0080
+  - first:
+      213: 21300120
+    second: THROW_M_Human_0140
+  - first:
+      213: 21300122
+    second: RUN_M_Human_0140
+  - first:
+      213: 21300124
+    second: THROW_M_Human_0020
+  - first:
+      213: 21300126
+    second: RUN_M_Human_0110
+  - first:
+      213: 21300128
+    second: IDLE_M_Human_0140
+  - first:
+      213: 21300130
+    second: WALK_M_Human_0070
+  - first:
+      213: 21300132
+    second: ATTACK_M_Human_0150
+  - first:
+      213: 21300134
+    second: JUMP_M_Human_0010
+  - first:
+      213: 21300136
+    second: WALK_M_Human_0100
+  - first:
+      213: 21300138
+    second: WALK_M_Human_0090
+  - first:
+      213: 21300140
+    second: HIT_M_Human_0150
+  - first:
+      213: 21300142
+    second: THROW_M_Human_0010
+  - first:
+      213: 21300144
+    second: WALK_M_Human_0150
+  - first:
+      213: 21300146
+    second: DEATH_M_Human_0150
+  - first:
+      213: 21300148
+    second: HIT_M_Human_0140
+  - first:
+      213: 21300150
+    second: DEATH_M_Human_0010
+  - first:
+      213: 21300152
+    second: DEATH_M_Human_0020
+  - first:
+      213: 21300154
+    second: IDLE_M_Human_0020
+  - first:
+      213: 21300156
+    second: WALK_M_Human_0020
+  - first:
+      213: 21300158
+    second: ATTACK_M_Human_0020
+  - first:
+      213: 21300160
+    second: THROW_M_Human_0060
+  - first:
+      213: 21300162
+    second: WALK_M_Human_0010
+  - first:
+      213: 21300164
+    second: ATTACK_M_Human_0050
+  - first:
+      213: 21300166
+    second: ATTACK_M_Human_0060
+  - first:
+      213: 21300168
+    second: HIT_M_Human_0010
+  - first:
+      213: 21300170
+    second: HIT_M_Human_0020
+  - first:
+      213: 21300172
+    second: JUMP_M_Human_0090
+  - first:
+      213: 21300174
+    second: RUN_M_Human_0020
+  - first:
+      213: 21300176
+    second: IDLE_M_Human_0000
+  - first:
+      213: 21300178
+    second: IDLE_M_Human_0010
+  - first:
+      213: 21300180
+    second: THROW_M_Human_0000
+  - first:
+      213: 21300182
+    second: JUMP_M_Human_0150
+  - first:
+      213: 21300184
+    second: JUMP_M_Human_0030
+  - first:
+      213: 21300186
+    second: HIT_M_Human_0000
+  - first:
+      213: 21300188
+    second: ATTACK_M_Human_0000
+  - first:
+      213: 21300190
+    second: JUMP_M_Human_0080
+  - first:
+      213: 21300192
+    second: ATTACK_M_Human_0010
+  - first:
+      213: 21300194
+    second: THROW_M_Human_0070
+  - first:
+      213: 21300196
+    second: DEATH_M_Human_0000
+  - first:
+      213: 21300198
+    second: JUMP_M_Human_0000
+  - first:
+      213: 21300200
+    second: IDLE_M_Human_0150
+  - first:
+      213: 21300202
+    second: WALK_M_Human_0080
+  - first:
+      213: 21300204
+    second: RUN_M_Human_0060
+  - first:
+      213: 21300206
+    second: RUN_M_Human_0070
+  - first:
+      213: 21300208
+    second: WALK_M_Human_0000
+  - first:
+      213: 21300210
+    second: ATTACK_M_Human_0070
+  - first:
+      213: 21300212
+    second: ATTACK_M_Human_0140
+  - first:
+      213: 21300214
+    second: THROW_M_Human_0030
+  - first:
+      213: 21300216
+    second: IDLE_M_Human_0030
+  - first:
+      213: 21300218
+    second: RUN_M_Human_0150
+  - first:
+      213: 21300220
+    second: IDLE_M_Human_0130
+  - first:
+      213: 21300222
+    second: Hammer_Double_0000
+  - first:
+      213: 21300224
+    second: Hammer_0000
+  - first:
+      213: 21300226
+    second: DEATH_M_Human_0070
+  - first:
+      213: 21300228
+    second: ATTACK_M_Human_0130
+  - first:
+      213: 21300230
+    second: ATTACK_M_Human_0080
+  - first:
+      213: 21300232
+    second: ATTACK_M_Human_0090
+  - first:
+      213: 21300234
+    second: JUMP_M_Human_0040
+  - first:
+      213: 21300236
+    second: JUMP_M_Human_0050
+  - first:
+      213: 21300238
+    second: IDLE_M_Human_0120
+  - first:
+      213: 21300240
+    second: IDLE_M_Human_0100
+  - first:
+      213: 21300242
+    second: IDLE_M_Human_0110
+  - first:
+      213: 21300244
+    second: THROW_M_Human_0050
+  - first:
+      213: 21300246
+    second: THROW_M_Human_0040
+  - first:
+      213: 21300248
+    second: RUN_M_Human_0100
+  - first:
+      213: 21300250
+    second: JUMP_M_Human_0060
+  - first:
+      213: 21300252
+    second: RUN_M_Human_0010
+  - first:
+      213: 21300254
+    second: IDLE_M_Human_0060
+  - first:
+      213: 21300256
+    second: IDLE_M_Human_0050
+  - first:
+      213: 21300258
+    second: IDLE_M_Human_0040
+  - first:
+      213: 21300260
+    second: ATTACK_M_Human_0100
+  - first:
+      213: 21300262
+    second: ATTACK_M_Human_0110
+  - first:
+      213: 21300264
+    second: ATTACK_M_Human_0120
+  - first:
+      213: 21300266
+    second: JUMP_M_Human_0070
+  - first:
+      213: 21300268
+    second: DEATH_M_Human_0140
+  - first:
+      213: 21300270
+    second: RUN_M_Human_0000
+  - first:
+      213: 21300272
+    second: IDLE_M_Human_0090
+  - first:
+      213: 21300274
+    second: IDLE_M_Human_0070
+  - first:
+      213: 21300276
+    second: IDLE_M_Human_0080
+  - first:
+      213: 21300278
+    second: RUN_M_Human_0090
+  - first:
+      213: 21300280
+    second: DEATH_M_Human_0130
+  - first:
+      213: 21300282
+    second: RUN_M_Human_0080
+  - first:
+      213: 21300284
+    second: AXE_0000
+  - first:
+      213: 21300286
+    second: DEATH_M_Human_0120
+  - first:
+      213: 21300288
+    second: DEATH_M_Human_0080
+  - first:
+      213: 21300290
+    second: DEATH_M_Human_0110
+  - first:
+      213: 21300292
+    second: DEATH_M_Human_0100
+  - first:
+      213: 21300294
+    second: DEATH_M_Human_0090
+  - first:
+      213: 21300296
+    second: STONE_0000
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Atlas_Player_Waepons_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1939
+        width: 184
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee723f011b68c5a46ae5f18ab4395f5b
+      internalID: 124850546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Player_Waepons_1
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1914
+        width: 178
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5ebe66e74835ae488b2d1b272fae507
+      internalID: -1158874206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Player_Waepons_2
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 1893
+        width: 176
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91422e924e1257f4abaa316dd3a09d7c
+      internalID: -1239021546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Player_Waepons_3
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 1867
+        width: 114
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 639755c64f6d71b4facddd9147abf65c
+      internalID: 1773213565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Player_Waepons_4
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1753
+        width: 97
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a2eccb8bf7230c4e9ce0e2af22c2e31
+      internalID: 598839495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Player_Waepons_5
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 1741
+        width: 97
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82ca283182e61584f82670fc705a83e1
+      internalID: -179169564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Player_Waepons_6
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1727
+        width: 97
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2853bc2fa7a28a344a4695b571c2d958
+      internalID: 810999523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Player_Waepons_7
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 1725
+        width: 98
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad026d13045775f4f8d23880fd299ad9
+      internalID: 1275762750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Player_Waepons_8
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 1711
+        width: 97
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bfe33421e54efd4f85cecf6e4d5b56d
+      internalID: -767103186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Player_Waepons_9
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 1710
+        width: 97
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 447019f61f41c134492535d3095e1526
+      internalID: 320897985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Player_Waepons_10
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 1693
+        width: 97
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aaf75e8731a6d547a9e450843fb7752
+      internalID: -273495282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Player_Waepons_11
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 1683
+        width: 105
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2dfb8919c4b5d44382808437f0b223b
+      internalID: -1936869030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Player_Waepons_12
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 1676
+        width: 109
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98a6ce255c1dd1a4f9aa5b4f6304e522
+      internalID: 2109069589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Player_Waepons_13
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1564
+        width: 112
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10ded4dc6e59a5c499beecc33edfb104
+      internalID: -1666281443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Player_Waepons_14
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 1554
+        width: 97
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 196b31709d8f5e4499d44302e314441a
+      internalID: 1046900855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Player_Waepons_15
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1540
+        width: 97
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 040219691c77e2b4da95200957d841ae
+      internalID: -1768463275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Player_Waepons_16
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 1539
+        width: 97
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41458bcbd349f1146b9f17e21d702f87
+      internalID: 2044665574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Player_Waepons_17
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 1526
+        width: 99
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4d87774206b2ce4dab931ff7a80af57
+      internalID: 2110387886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Player_Waepons_18
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 1523
+        width: 97
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d931daccdbd36284c806e2d461b6b095
+      internalID: 1048020750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Player_Waepons_19
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 1508
+        width: 98
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51711aa7f77fa8443b50849f7ff18f12
+      internalID: 686491670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Player_Waepons_20
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 1498
+        width: 97
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dea2c61ccad408b408a53de612276dde
+      internalID: 1530756556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Player_Waepons_21
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 1493
+        width: 97
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55164a952c87dc84195d17d58bcc037f
+      internalID: -2000275434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Player_Waepons_22
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 1482
+        width: 117
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 720494b46cff5334bb820b9779ec0b86
+      internalID: 30261677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Player_Waepons_23
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 1482
+        width: 111
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 695980d7cf857c7488b2a63a83c86cb7
+      internalID: 1632788466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Player_Waepons_24
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1376
+        width: 109
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5e460568a4bf5f4fa25da002dc854fa
+      internalID: -1747040115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Player_Waepons_25
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1366
+        width: 110
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d822565521333944ab4bd9f03aadfda0
+      internalID: -1469896286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Player_Waepons_26
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1353
+        width: 98
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ece811c745ce6841a9e48ade3c3ccc3
+      internalID: 2023232979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Player_Waepons_27
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 1352
+        width: 97
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55e1b320d46304949a7cee7f22f462e9
+      internalID: 1964096803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Player_Waepons_28
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 1340
+        width: 104
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a776e778d2a50040acff94b1de0ab4c
+      internalID: -1812989980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Player_Waepons_29
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 1337
+        width: 100
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9792b27a1a470547abf816397606ec0
+      internalID: -1460675049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Player_Waepons_30
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 1322
+        width: 101
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69d1f0d7892c67e48aade1f340deed56
+      internalID: 1517783978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Player_Waepons_31
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 1313
+        width: 97
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22d43ea3e4412a941ad30541c290dfd0
+      internalID: -1507929427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Player_Waepons_32
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 1310
+        width: 110
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 913e341b2ea016d4c8deaac0e31221c7
+      internalID: -1994444747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Player_Waepons_33
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 1299
+        width: 97
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02b39ee15b37cb74b97118f64f7fba9b
+      internalID: 1619372150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Player_Waepons_34
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 1299
+        width: 118
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4704cccf9d2227b4f9d5640ae1eeee01
+      internalID: 1690769744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Player_Waepons_35
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1188
+        width: 104
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45edecc2fa2413d42a1d164c91b2dd82
+      internalID: -2080023568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Player_Waepons_36
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1179
+        width: 102
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5b688052e666b04d909f6b6afdf9aba
+      internalID: -1235478816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Player_Waepons_37
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 1166
+        width: 97
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c4b9d4ad8184ae47990583082d66377
+      internalID: 1833486173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Player_Waepons_38
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 1166
+        width: 99
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09afbb6169581a645b77f0facac5f947
+      internalID: 506084691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Player_Waepons_39
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 1153
+        width: 97
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8982fa657240b9b458971d0bd1148efc
+      internalID: -311854333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Player_Waepons_40
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 1151
+        width: 97
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 701efd40c8118944e98d84bf1f91ee76
+      internalID: 23636096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Player_Waepons_41
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 1136
+        width: 100
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daddb842448006c4cb0313c30018653e
+      internalID: 1734758673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Player_Waepons_42
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 1127
+        width: 102
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57bcd5e0642895447a133df51c8cf2db
+      internalID: 610213693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Player_Waepons_43
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 1125
+        width: 97
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc601c9516e417f448320eec71350a7c
+      internalID: -1338688786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Player_Waepons_44
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 1125
+        width: 97
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea9a09a19e074994bb047718d551bf23
+      internalID: 1827458613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Player_Waepons_45
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 1116
+        width: 107
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 315cf7b916bf3634083f62ecadc97fe3
+      internalID: 903870940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Player_Waepons_46
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 1108
+        width: 144
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b576a575e5549a04eba4dd542ed7d0b5
+      internalID: 772157621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Player_Waepons_47
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 999
+        width: 98
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e2fa952296c1a448bf8925ae7c60a7d
+      internalID: -428002247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Player_Waepons_48
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 990
+        width: 110
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1154b74412604649b93dcc759d11a22
+      internalID: -269968277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Player_Waepons_49
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 977
+        width: 103
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12e949cdde746e14aad968128a641614
+      internalID: 1180223690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Player_Waepons_50
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 965
+        width: 97
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03e7d68702008774f96e03a55cc70395
+      internalID: -844651770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Player_Waepons_51
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 965
+        width: 97
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 463d97f9aaecea647bcd06784a921f8a
+      internalID: 970340857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Player_Waepons_52
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 965
+        width: 100
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 825479bfd6495fd4d828468ae48d32bf
+      internalID: 871801202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Player_Waepons_53
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 949
+        width: 97
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23f012fe39774ff469c42e8bff3cc601
+      internalID: -1442411960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Player_Waepons_54
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 941
+        width: 104
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fe1e572fccbd094e9342e654f5351fe
+      internalID: 2044672154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Player_Waepons_55
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 939
+        width: 104
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62efe98551c4b934585b9bf8cd88fce2
+      internalID: -43332434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Player_Waepons_56
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 933
+        width: 104
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcf30c29733e85a468694903f88b95be
+      internalID: -1448114891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Player_Waepons_57
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 925
+        width: 110
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cf163a6697ba8a428e3fc6a13c8c133
+      internalID: 584610857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Player_Waepons_58
+      rect:
+        serializedVersion: 2
+        x: 1353
+        y: 922
+        width: 180
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d00114ece8703547a6ac94cf50dadc5
+      internalID: 629385020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Player_Waepons_59
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 919
+        width: 163
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1756517b0aa8fce4b80f4012a9ce6bae
+      internalID: -1522039600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Player_Waepons_60
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 803
+        width: 102
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5db939df8d7737f4aa4b09f95650317f
+      internalID: -469488970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Player_Waepons_61
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 800
+        width: 97
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9108b16bbd7f0048a0df7e8b30dbde2
+      internalID: 1077826033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Player_Waepons_62
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 788
+        width: 97
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f62dcb8828b5a848a53c855e130d5cb
+      internalID: 452886461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Player_Waepons_63
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 777
+        width: 116
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab2328172999cf042b29d6debfa362f7
+      internalID: -421028015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Player_Waepons_64
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 776
+        width: 110
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88ae33e8a88dc9b47a7a462dd7254b14
+      internalID: -194124220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Player_Waepons_65
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 763
+        width: 99
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8bd33215e9791743b3ed49e94c5cae1
+      internalID: -1394076054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Player_Waepons_66
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 754
+        width: 100
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af904c8c81f4f4c48b327dd6a73feae8
+      internalID: -2139187672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Player_Waepons_67
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 753
+        width: 97
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 286cb401f2fb07e41be51d75703b3b5b
+      internalID: -833972985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Player_Waepons_68
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 747
+        width: 97
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e5c87eab8651aa4dbfa749706430af0
+      internalID: -1391065847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Player_Waepons_69
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 927
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af6c29a00fb55d443a5e2828658c21bf
+      internalID: 1424499571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Player_Waepons_70
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 605
+        width: 106
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f618b35f5a4afc42819ddadc134336c
+      internalID: -2115206018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Player_Waepons_71
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 777
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 646617d1a589dd1438026954cc463392
+      internalID: 644459735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Player_Waepons_72
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 603
+        width: 98
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdd404bafbfcc2548ad065e6d1412b21
+      internalID: 1511807349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Player_Waepons_73
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 598
+        width: 97
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a64e8e0414809f4f83add9dcf4c2c79
+      internalID: 327455099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Player_Waepons_74
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 744
+        width: 103
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4396119ca4917fb4a9f1ec440390c9df
+      internalID: 672127532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Player_Waepons_75
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 743
+        width: 112
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2c9cab3509d2fc46a1c42b66397e68f
+      internalID: -1334693538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Player_Waepons_76
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 742
+        width: 104
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f4befb2ea9193c4eb40c9f063f910be
+      internalID: 1330435894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Player_Waepons_77
+      rect:
+        serializedVersion: 2
+        x: 1353
+        y: 739
+        width: 103
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bf6cca7b53047947996a1e6b94eb086
+      internalID: -520519446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Player_Waepons_78
+      rect:
+        serializedVersion: 2
+        x: 1459
+        y: 737
+        width: 102
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f2822a9728f869438a07c11808ea3ea
+      internalID: -297354091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Player_Waepons_79
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 737
+        width: 172
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 941a941e3dc7c154583161acbcbacfd5
+      internalID: -1390870428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Player_Waepons_80
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 405
+        width: 101
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cf9cef607ff8ae48931bb9864741168
+      internalID: 97865632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Player_Waepons_81
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 404
+        width: 110
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a737df3984d673d47ad0ed8c18922b54
+      internalID: 1232872336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Player_Waepons_82
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 401
+        width: 98
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e4cc696e945dda4f8c5acd1f5b853c6
+      internalID: -1284489955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Player_Waepons_83
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 589
+        width: 97
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c94d8967983ae1a479502b0dbbd96dc8
+      internalID: 2002066181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Player_Waepons_84
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 588
+        width: 98
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adf02a917b5e27e4a88def4b020fd8a8
+      internalID: -1222328113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Player_Waepons_85
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 574
+        width: 97
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 318b6f40d97428049bdcd406274b8f84
+      internalID: -1478080915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Player_Waepons_86
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 566
+        width: 97
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dc36efdb9682a14f91f4ea6504c2b76
+      internalID: -917650603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Player_Waepons_87
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 567
+        width: 100
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 206c8871018fc6d40849d9618dc963a1
+      internalID: 1870639042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Player_Waepons_88
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 562
+        width: 97
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dc2c8690650df74aa298d58d19606c6
+      internalID: -1190696118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Player_Waepons_89
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 560
+        width: 109
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bd52bccce66e6345a82867b3f22a582
+      internalID: 815267760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Player_Waepons_90
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 559
+        width: 104
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a5406a12b905864b919a7b9d64558b2
+      internalID: 952339537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Player_Waepons_91
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 558
+        width: 97
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 663a9adfa2615e5419fc1968de50857b
+      internalID: -1001952244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Player_Waepons_92
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 556
+        width: 85
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da7b9479bdee1324681b05f8cfa7d9ba
+      internalID: 1959694592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Player_Waepons_93
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 554
+        width: 97
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a934c7e24375174aa59bf7ab54b353e
+      internalID: 315774894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Player_Waepons_94
+      rect:
+        serializedVersion: 2
+        x: 1557
+        y: 553
+        width: 97
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c3765d96e3357a40b13c8e4a8d94390
+      internalID: -1528630778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Player_Waepons_95
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 551
+        width: 97
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2eb55b20f553ac4ead55b07dcf0bcf7
+      internalID: -613922156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Player_Waepons_96
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 204
+        width: 103
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de0fceb91d80e764a85e5d592dffed5b
+      internalID: 666905240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Player_Waepons_97
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 203
+        width: 101
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8daac8b5480dcc94891c2f63b13a0d42
+      internalID: 1588745951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Player_Waepons_98
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 202
+        width: 96
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 245abc3fd30114543850cde81752b71d
+      internalID: 489700521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Player_Waepons_99
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 398
+        width: 104
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36219c64cb886b24d9589f84128e9245
+      internalID: 160229723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Player_Waepons_100
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 394
+        width: 105
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3999d36e41130b943b0a8d97c6e062f4
+      internalID: -1227336120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Player_Waepons_101
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 386
+        width: 105
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cccae6d82c76a3d42b168a5a67a48262
+      internalID: 611853906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Player_Waepons_102
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 378
+        width: 97
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 036b33dfefa915b448775f0eab771333
+      internalID: 372893360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Player_Waepons_103
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 376
+        width: 97
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bc6df6bdf2c1694e87e6acf43b59060
+      internalID: -773140273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Player_Waepons_104
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 376
+        width: 97
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 923dfb290c701824ea7503878e56bca3
+      internalID: 1375439387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Player_Waepons_105
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 375
+        width: 93
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4701326306db0dd479e80d7d401fdde3
+      internalID: -895651005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Player_Waepons_106
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 374
+        width: 100
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acc045d5598a89d46a610b7a1ebab32c
+      internalID: 762447368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Player_Waepons_107
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 374
+        width: 97
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f617ad8e9db1cf24bb7c5d5daa846cd7
+      internalID: 616941407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Player_Waepons_108
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 373
+        width: 101
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec031c8543ccf9d4da194366e97fea1a
+      internalID: -558941035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Player_Waepons_109
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 372
+        width: 108
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13e51245bef23d24cab7b9d59155cffc
+      internalID: 1620540947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Player_Waepons_110
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 371
+        width: 83
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b377aca544fadd64988005e112aa0e2f
+      internalID: -1852203169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Player_Waepons_111
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 370
+        width: 103
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dac163f88c9e8f64d9d5bd3bdaedbf42
+      internalID: -1985304067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Player_Waepons_112
+      rect:
+        serializedVersion: 2
+        x: 1653
+        y: 368
+        width: 97
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f304060cbca21742a4b60f39f69e951
+      internalID: -1902786160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Player_Waepons_113
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 368
+        width: 97
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15c407b88846cda4285e09d6dba49680
+      internalID: -915962934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Player_Waepons_114
+      rect:
+        serializedVersion: 2
+        x: 1851
+        y: 367
+        width: 155
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dabb72fc4f852bf4ebfd6ef1384115a2
+      internalID: 1869987192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Player_Waepons_115
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 371
+        width: 10
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54c6f18fc4b089348b29fbf5a46bc002
+      internalID: -1652193449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Player_Waepons_116
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 370
+        width: 7
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a4a1521fc8d606429a78a1e463f2827
+      internalID: 488749100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Player_Waepons_117
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 200
+        width: 98
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d626297cbc6bb54c945853adeff40ca
+      internalID: 1874019600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Player_Waepons_118
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 199
+        width: 104
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 471c9caf4ec808f48bbecbffca384241
+      internalID: -199840780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Player_Waepons_119
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 197
+        width: 98
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53e69418cbaae5c458cd006ac3df358f
+      internalID: -518000384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Player_Waepons_120
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 190
+        width: 110
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d19263aa830a1a4f9f0448e1a5cac06
+      internalID: 805745268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Player_Waepons_121
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 190
+        width: 100
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75a6c63b40cd41e4f9b8bbb0beb8a62e
+      internalID: -1539940889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Player_Waepons_122
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 189
+        width: 97
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c78459a500789cb4e93d746f92d38e36
+      internalID: -619771789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Player_Waepons_123
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 189
+        width: 98
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f773464e8ddc86643a21ffec5641f563
+      internalID: -30221063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Player_Waepons_124
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 189
+        width: 100
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45ac55a8f4a162940bd9b35cb80828d3
+      internalID: 1260382904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Player_Waepons_125
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 189
+        width: 100
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca16ab6c9a84d9546ad116599e27eb20
+      internalID: 1968028066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Player_Waepons_126
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1
+        width: 58
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f256340f87745148acca4f1cb9ee99f
+      internalID: -2114175717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Player_Waepons_127
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 1
+        width: 108
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e0df33d95c731646899edaf36b99ec9
+      internalID: 84971644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Player_Waepons_128
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 169
+        width: 8
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 785296620aa132c429c32a3aa0b1614e
+      internalID: -208760253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Player_Waepons_129
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 1
+        width: 100
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 228eaa2720fdca544a114bd7024ff386
+      internalID: 2051867628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Player_Waepons_130
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1
+        width: 98
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53ae51bc66102334d905d4eab08f65ff
+      internalID: 418449909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Player_Waepons_131
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 1
+        width: 97
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c482d33471cda44c941caf905f6adfa
+      internalID: -372494458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Player_Waepons_132
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 173
+        width: 5
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb545f25c1cb222419fcfae26a93f7fa
+      internalID: -1773757717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Player_Waepons_133
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 1
+        width: 97
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8991be2a85e3ff4ab0f9628c9a56c92
+      internalID: -1362448349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Player_Waepons_134
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 1
+        width: 108
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3b6235840f120a468d5697857afc848
+      internalID: -242529299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Player_Waepons_135
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 187
+        width: 99
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2f30490a3d572a43b36cd5a2e530f04
+      internalID: 1881258230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Player_Waepons_136
+      rect:
+        serializedVersion: 2
+        x: 1347
+        y: 187
+        width: 97
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42c8fd9efffdda04993abc55e8d9487c
+      internalID: -95080144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Player_Waepons_137
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 187
+        width: 100
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ea47757b0f1fa0439b315405b585094
+      internalID: 2056774390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Player_Waepons_138
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 186
+        width: 97
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f4edb01741c8be45bef00b798d9245b
+      internalID: 673550275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Player_Waepons_139
+      rect:
+        serializedVersion: 2
+        x: 1655
+        y: 186
+        width: 115
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfcf8c7e13a4a7b42973ac8556f534ef
+      internalID: -157761103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Player_Waepons_140
+      rect:
+        serializedVersion: 2
+        x: 1772
+        y: 184
+        width: 97
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a30d4b03de904804db1453a86e301d9e
+      internalID: 1819552048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Player_Waepons_141
+      rect:
+        serializedVersion: 2
+        x: 1871
+        y: 184
+        width: 97
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6df324788beceb47a33350f6923214f
+      internalID: 1670731927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Player_Waepons_142
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 1
+        width: 113
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 850b8f99c1df8bd4799ece250281c41f
+      internalID: 1034019847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Player_Waepons_143
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 1
+        width: 115
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd2bb850679bf264ea351b248e13e5b8
+      internalID: 1274777316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Player_Waepons_144
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 1
+        width: 104
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0af910dcfafc48b45891907ba0a56151
+      internalID: -773763452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Player_Waepons_145
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 1
+        width: 97
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e123a418c80de6648a7c85b41011077f
+      internalID: 1800241187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Player_Waepons_146
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 1
+        width: 97
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1692eb4f8852e15448fa93de74c1c3cc
+      internalID: -1283120730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Player_Waepons_147
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 2
+        width: 104
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c14dc6184c589344781e95a3ec00398b
+      internalID: 1314878093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Player_Waepons_148
+      rect:
+        serializedVersion: 2
+        x: 1346
+        y: 1
+        width: 100
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb8bda7a7ab59fc48b9f678fcae4e69b
+      internalID: -162791523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Player_Waepons_149
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 1
+        width: 104
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d70bdc013f651043bbbfd3ded4586a3
+      internalID: 93616371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Player_Waepons_150
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 1
+        width: 98
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b258a7dcfcb476e49ae39c2336f821a8
+      internalID: 2024834134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Player_Waepons_151
+      rect:
+        serializedVersion: 2
+        x: 1655
+        y: 1
+        width: 104
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 655c28e42669b984b94ce25d762af9e4
+      internalID: -1700258484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Player_Waepons_152
+      rect:
+        serializedVersion: 2
+        x: 1762
+        y: 1
+        width: 126
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8dc04880f338c241b742e39b9bef322
+      internalID: -173630529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Player_Waepons_153
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 1
+        width: 97
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71dad5a3c0d2da9458da16a8ab6aea24
+      internalID: 1423580124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: feb0e89b18811cd49a1676192b41afa9
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Atlas_Player_Waepons_0: 124850546
+      Atlas_Player_Waepons_1: -1158874206
+      Atlas_Player_Waepons_10: -273495282
+      Atlas_Player_Waepons_100: -1227336120
+      Atlas_Player_Waepons_101: 611853906
+      Atlas_Player_Waepons_102: 372893360
+      Atlas_Player_Waepons_103: -773140273
+      Atlas_Player_Waepons_104: 1375439387
+      Atlas_Player_Waepons_105: -895651005
+      Atlas_Player_Waepons_106: 762447368
+      Atlas_Player_Waepons_107: 616941407
+      Atlas_Player_Waepons_108: -558941035
+      Atlas_Player_Waepons_109: 1620540947
+      Atlas_Player_Waepons_11: -1936869030
+      Atlas_Player_Waepons_110: -1852203169
+      Atlas_Player_Waepons_111: -1985304067
+      Atlas_Player_Waepons_112: -1902786160
+      Atlas_Player_Waepons_113: -915962934
+      Atlas_Player_Waepons_114: 1869987192
+      Atlas_Player_Waepons_115: -1652193449
+      Atlas_Player_Waepons_116: 488749100
+      Atlas_Player_Waepons_117: 1874019600
+      Atlas_Player_Waepons_118: -199840780
+      Atlas_Player_Waepons_119: -518000384
+      Atlas_Player_Waepons_12: 2109069589
+      Atlas_Player_Waepons_120: 805745268
+      Atlas_Player_Waepons_121: -1539940889
+      Atlas_Player_Waepons_122: -619771789
+      Atlas_Player_Waepons_123: -30221063
+      Atlas_Player_Waepons_124: 1260382904
+      Atlas_Player_Waepons_125: 1968028066
+      Atlas_Player_Waepons_126: -2114175717
+      Atlas_Player_Waepons_127: 84971644
+      Atlas_Player_Waepons_128: -208760253
+      Atlas_Player_Waepons_129: 2051867628
+      Atlas_Player_Waepons_13: -1666281443
+      Atlas_Player_Waepons_130: 418449909
+      Atlas_Player_Waepons_131: -372494458
+      Atlas_Player_Waepons_132: -1773757717
+      Atlas_Player_Waepons_133: -1362448349
+      Atlas_Player_Waepons_134: -242529299
+      Atlas_Player_Waepons_135: 1881258230
+      Atlas_Player_Waepons_136: -95080144
+      Atlas_Player_Waepons_137: 2056774390
+      Atlas_Player_Waepons_138: 673550275
+      Atlas_Player_Waepons_139: -157761103
+      Atlas_Player_Waepons_14: 1046900855
+      Atlas_Player_Waepons_140: 1819552048
+      Atlas_Player_Waepons_141: 1670731927
+      Atlas_Player_Waepons_142: 1034019847
+      Atlas_Player_Waepons_143: 1274777316
+      Atlas_Player_Waepons_144: -773763452
+      Atlas_Player_Waepons_145: 1800241187
+      Atlas_Player_Waepons_146: -1283120730
+      Atlas_Player_Waepons_147: 1314878093
+      Atlas_Player_Waepons_148: -162791523
+      Atlas_Player_Waepons_149: 93616371
+      Atlas_Player_Waepons_15: -1768463275
+      Atlas_Player_Waepons_150: 2024834134
+      Atlas_Player_Waepons_151: -1700258484
+      Atlas_Player_Waepons_152: -173630529
+      Atlas_Player_Waepons_153: 1423580124
+      Atlas_Player_Waepons_16: 2044665574
+      Atlas_Player_Waepons_17: 2110387886
+      Atlas_Player_Waepons_18: 1048020750
+      Atlas_Player_Waepons_19: 686491670
+      Atlas_Player_Waepons_2: -1239021546
+      Atlas_Player_Waepons_20: 1530756556
+      Atlas_Player_Waepons_21: -2000275434
+      Atlas_Player_Waepons_22: 30261677
+      Atlas_Player_Waepons_23: 1632788466
+      Atlas_Player_Waepons_24: -1747040115
+      Atlas_Player_Waepons_25: -1469896286
+      Atlas_Player_Waepons_26: 2023232979
+      Atlas_Player_Waepons_27: 1964096803
+      Atlas_Player_Waepons_28: -1812989980
+      Atlas_Player_Waepons_29: -1460675049
+      Atlas_Player_Waepons_3: 1773213565
+      Atlas_Player_Waepons_30: 1517783978
+      Atlas_Player_Waepons_31: -1507929427
+      Atlas_Player_Waepons_32: -1994444747
+      Atlas_Player_Waepons_33: 1619372150
+      Atlas_Player_Waepons_34: 1690769744
+      Atlas_Player_Waepons_35: -2080023568
+      Atlas_Player_Waepons_36: -1235478816
+      Atlas_Player_Waepons_37: 1833486173
+      Atlas_Player_Waepons_38: 506084691
+      Atlas_Player_Waepons_39: -311854333
+      Atlas_Player_Waepons_4: 598839495
+      Atlas_Player_Waepons_40: 23636096
+      Atlas_Player_Waepons_41: 1734758673
+      Atlas_Player_Waepons_42: 610213693
+      Atlas_Player_Waepons_43: -1338688786
+      Atlas_Player_Waepons_44: 1827458613
+      Atlas_Player_Waepons_45: 903870940
+      Atlas_Player_Waepons_46: 772157621
+      Atlas_Player_Waepons_47: -428002247
+      Atlas_Player_Waepons_48: -269968277
+      Atlas_Player_Waepons_49: 1180223690
+      Atlas_Player_Waepons_5: -179169564
+      Atlas_Player_Waepons_50: -844651770
+      Atlas_Player_Waepons_51: 970340857
+      Atlas_Player_Waepons_52: 871801202
+      Atlas_Player_Waepons_53: -1442411960
+      Atlas_Player_Waepons_54: 2044672154
+      Atlas_Player_Waepons_55: -43332434
+      Atlas_Player_Waepons_56: -1448114891
+      Atlas_Player_Waepons_57: 584610857
+      Atlas_Player_Waepons_58: 629385020
+      Atlas_Player_Waepons_59: -1522039600
+      Atlas_Player_Waepons_6: 810999523
+      Atlas_Player_Waepons_60: -469488970
+      Atlas_Player_Waepons_61: 1077826033
+      Atlas_Player_Waepons_62: 452886461
+      Atlas_Player_Waepons_63: -421028015
+      Atlas_Player_Waepons_64: -194124220
+      Atlas_Player_Waepons_65: -1394076054
+      Atlas_Player_Waepons_66: -2139187672
+      Atlas_Player_Waepons_67: -833972985
+      Atlas_Player_Waepons_68: -1391065847
+      Atlas_Player_Waepons_69: 1424499571
+      Atlas_Player_Waepons_7: 1275762750
+      Atlas_Player_Waepons_70: -2115206018
+      Atlas_Player_Waepons_71: 644459735
+      Atlas_Player_Waepons_72: 1511807349
+      Atlas_Player_Waepons_73: 327455099
+      Atlas_Player_Waepons_74: 672127532
+      Atlas_Player_Waepons_75: -1334693538
+      Atlas_Player_Waepons_76: 1330435894
+      Atlas_Player_Waepons_77: -520519446
+      Atlas_Player_Waepons_78: -297354091
+      Atlas_Player_Waepons_79: -1390870428
+      Atlas_Player_Waepons_8: -767103186
+      Atlas_Player_Waepons_80: 97865632
+      Atlas_Player_Waepons_81: 1232872336
+      Atlas_Player_Waepons_82: -1284489955
+      Atlas_Player_Waepons_83: 2002066181
+      Atlas_Player_Waepons_84: -1222328113
+      Atlas_Player_Waepons_85: -1478080915
+      Atlas_Player_Waepons_86: -917650603
+      Atlas_Player_Waepons_87: 1870639042
+      Atlas_Player_Waepons_88: -1190696118
+      Atlas_Player_Waepons_89: 815267760
+      Atlas_Player_Waepons_9: 320897985
+      Atlas_Player_Waepons_90: 952339537
+      Atlas_Player_Waepons_91: -1001952244
+      Atlas_Player_Waepons_92: 1959694592
+      Atlas_Player_Waepons_93: 315774894
+      Atlas_Player_Waepons_94: -1528630778
+      Atlas_Player_Waepons_95: -613922156
+      Atlas_Player_Waepons_96: 666905240
+      Atlas_Player_Waepons_97: 1588745951
+      Atlas_Player_Waepons_98: 489700521
+      Atlas_Player_Waepons_99: 160229723
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

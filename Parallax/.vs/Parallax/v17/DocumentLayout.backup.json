@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\eduar\\OneDrive\\Documentos\\Unity\\Parallax\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A509191-9A9F-7C61-0B93-9F123DAA2D73}|Assembly-CSharp.csproj|c:\\users\\eduar\\onedrive\\documentos\\unity\\parallax\\assets\\scripts\\controllerplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A509191-9A9F-7C61-0B93-9F123DAA2D73}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\controllerplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A509191-9A9F-7C61-0B93-9F123DAA2D73}|Assembly-CSharp.csproj|C:\\Users\\eduar\\OneDrive\\Documentos\\Unity\\Parallax\\assets\\scripts\\parallaxtransform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A509191-9A9F-7C61-0B93-9F123DAA2D73}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\parallaxtransform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A509191-9A9F-7C61-0B93-9F123DAA2D73}|Assembly-CSharp.csproj|C:\\Users\\eduar\\OneDrive\\Documentos\\Unity\\Parallax\\assets\\scripts\\controlcamara.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A509191-9A9F-7C61-0B93-9F123DAA2D73}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\controlcamara.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ParallaxTransform.cs",
+              "DocumentMoniker": "C:\\Users\\eduar\\OneDrive\\Documentos\\Unity\\Parallax\\Assets\\Scripts\\ParallaxTransform.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ParallaxTransform.cs",
+              "ToolTip": "C:\\Users\\eduar\\OneDrive\\Documentos\\Unity\\Parallax\\Assets\\Scripts\\ParallaxTransform.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ParallaxTransform.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAADwvyMAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T12:27:46.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ControllerPlayer.cs",
+              "DocumentMoniker": "C:\\Users\\eduar\\OneDrive\\Documentos\\Unity\\Parallax\\Assets\\Scripts\\ControllerPlayer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ControllerPlayer.cs",
+              "ToolTip": "C:\\Users\\eduar\\OneDrive\\Documentos\\Unity\\Parallax\\Assets\\Scripts\\ControllerPlayer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ControllerPlayer.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowDIAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T09:11:39.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ControlCamara.cs",
+              "DocumentMoniker": "C:\\Users\\eduar\\OneDrive\\Documentos\\Unity\\Parallax\\Assets\\Scripts\\ControlCamara.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ControlCamara.cs",
+              "ToolTip": "C:\\Users\\eduar\\OneDrive\\Documentos\\Unity\\Parallax\\Assets\\Scripts\\ControlCamara.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ControlCamara.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T09:11:37.307Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

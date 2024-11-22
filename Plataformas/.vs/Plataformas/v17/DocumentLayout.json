@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\eduar\\OneDrive\\Documentos\\GitHub\\PMV\\Plataformas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{079D9077-E57B-B98D-02BB-F768F48F2620}|Assembly-CSharp.csproj|C:\\Users\\eduar\\OneDrive\\Documentos\\GitHub\\PMV\\Plataformas\\assets\\scripts\\controlplataforma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{079D9077-E57B-B98D-02BB-F768F48F2620}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\controlplataforma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{079D9077-E57B-B98D-02BB-F768F48F2620}|Assembly-CSharp.csproj|c:\\users\\eduar\\onedrive\\documentos\\github\\pmv\\plataformas\\assets\\scripts\\controlbola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{079D9077-E57B-B98D-02BB-F768F48F2620}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\controlbola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{079D9077-E57B-B98D-02BB-F768F48F2620}|Assembly-CSharp.csproj|C:\\Users\\eduar\\OneDrive\\Documentos\\GitHub\\PMV\\Plataformas\\assets\\scripts\\controlbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{079D9077-E57B-B98D-02BB-F768F48F2620}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\controlbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ControlBase.cs",
+              "DocumentMoniker": "C:\\Users\\eduar\\OneDrive\\Documentos\\GitHub\\PMV\\Plataformas\\Assets\\Scripts\\ControlBase.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ControlBase.cs",
+              "ToolTip": "C:\\Users\\eduar\\OneDrive\\Documentos\\GitHub\\PMV\\Plataformas\\Assets\\Scripts\\ControlBase.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ControlBase.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAsAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T09:05:15.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ControlPlataforma.cs",
+              "DocumentMoniker": "C:\\Users\\eduar\\OneDrive\\Documentos\\GitHub\\PMV\\Plataformas\\Assets\\Scripts\\ControlPlataforma.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ControlPlataforma.cs",
+              "ToolTip": "C:\\Users\\eduar\\OneDrive\\Documentos\\GitHub\\PMV\\Plataformas\\Assets\\Scripts\\ControlPlataforma.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ControlPlataforma.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T07:48:46.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ControlBola.cs",
+              "DocumentMoniker": "C:\\Users\\eduar\\OneDrive\\Documentos\\GitHub\\PMV\\Plataformas\\Assets\\Scripts\\ControlBola.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ControlBola.cs",
+              "ToolTip": "C:\\Users\\eduar\\OneDrive\\Documentos\\GitHub\\PMV\\Plataformas\\Assets\\Scripts\\ControlBola.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ControlBola.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAgwD4AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T20:33:21.894Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
